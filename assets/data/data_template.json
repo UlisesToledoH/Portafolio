@@ -118,18 +118,6 @@
             "title": "Professional Cloud Developer",
             "description": "Google Cloud",
             "url": ""
-        },
-        {
-            "image": "/favicon.ico",
-            "title": "Cloud Digital Leader",
-            "description": "Google Cloud",
-            "url": ""
-        },
-        {
-            "image": "/favicon.ico",
-            "title": "Python Basic",
-            "description": "HackerRank",
-            "url": ""
         }
     ]
 }

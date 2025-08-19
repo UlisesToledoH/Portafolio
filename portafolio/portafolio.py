@@ -10,7 +10,6 @@ from portafolio.views.tech_stack import tech_stack
 
 DATA = data.load_data()
 
-
 def index() -> rx.Component:
     return rx.center(
         # rx.theme_panel(),

@@ -109,26 +109,26 @@
             "subtitle": "Subtítulo",
             "description": "Descripción",
             "date": "Años",
-            "certificate": "https://google.com"
+            "certificate": "/data/ActaExamenProfesional.pdf"
         }
     ],
     "extras": [
         {
             "image": "/favicon.ico",
-            "title": "Título",
-            "description": "Descripción",
+            "title": "Professional Cloud Developer",
+            "description": "Google Cloud",
             "url": ""
         },
         {
             "image": "/favicon.ico",
-            "title": "Título",
-            "description": "Descripción",
+            "title": "Cloud Digital Leader",
+            "description": "Google Cloud",
             "url": ""
         },
         {
             "image": "/favicon.ico",
-            "title": "Título",
-            "description": "Descripción",
+            "title": "Python Basic",
+            "description": "HackerRank",
             "url": ""
         }
     ]

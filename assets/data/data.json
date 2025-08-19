@@ -31,6 +31,10 @@
             "name": "C"
         },
         {
+            "icon": "devicon-csharp-plain",
+            "name": "C#"
+        },
+        {
             "icon": "devicon-java-plain",
             "name": "Java"
         },
@@ -45,6 +49,18 @@
         {
             "icon": "devicon-postgresql-plain",
             "name": "PostgreSQL"
+        },
+        {
+            "icon": "devicon-git-plain",
+            "name": "git"
+        },
+        {
+            "icon": "devicon-github-plain",
+            "name": "github"
+        },
+        {
+            "icon": "devicon-googlecloud-plain",
+            "name": "Google Cloud"
         }
     ],
     "experience": [
@@ -59,74 +75,86 @@
     "projects": [
         {
             "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
+            "title": "Diagnóstico de Alzheimer Mediante Redes Convolucionales Aplicadas al Análisis de Resonancias Magnéticas",
+            "subtitle": "Tesis",
+            "description": "Herramienta de Diagnostico de Alzheimer",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
                     "name": "Python"
                 },
                 {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
-                }
-            ],
-            "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
-        },
-        {
-            "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
-            "technologies": [
+                    "icon": "devicon-pandas-plain",
+                    "name": "Pandas"
+                },
                 {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Binario"
+                    "icon": "devicon-matplotlib-plain",
+                    "name": "matplotlib"
+                },
+                {
+                    "icon": "devicon-googlecolab-plain",
+                    "name": "Google Colab"
+                },
+                {
+                    "icon": "devicon-vscode-plain",
+                    "name": "Visual Studio Code"
+                },
+                {
+                    "icon": "devicon-numpy-plain",
+                    "name": "NumPy"
+                },
+                {
+                    "icon": "devicon-opencv-plain",
+                    "name": "OpenCV"
+                },
+                {
+                    "icon": "devicon-tensorflow-original",
+                    "name": "TensorFLow"
+                },
+                {
+                    "icon": "devicon-keras-plain",
+                    "name": "Keras"
+                },
+                {
+                    "icon": "devicon-kaggle-original",
+                    "name": "Kaggle"
                 }
+                
+                
             ],
-            "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
+            "image": "/project_1.png",
+            "github": "https://github.com/UlisesToledoH/AlzheimerCNN"
         }
+       
     ],
     "training": [
         {
-            "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
-        },
-        {
-            "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "icon": "book",
+            "title": "Instituto Politécnico Nacional",
+            "subtitle": "Ingenierio en Comunicaciones y Electrónica con especialidad en Computación",
+            "description": "Tesis: Diagnóstico de Alzheimer Mediante Redes Convolucionales Aplicadas al Análisis de Resonancias Magnéticas",
+            "date": "Enero 2020 - Agosto 2024",
+            "certificate": "/data/ActaExamenProfesional.pdf"
+            
         }
     ],
     "extras": [
         {
             "image": "/extra_1.jpg",
-            "title": "The Matrix",
-            "description": "Aparecí en esta película.",
+            "title": "Professional Cloud Developer",
+            "description": "Google Cloud",
             "url": "https://en.wikipedia.org/wiki/The_Matrix"
         },
         {
             "image": "/extra_2.jpg",
-            "title": "The Matrix Reloaded",
-            "description": "Y en esta otra.",
+            "title": "Cloud Digital Leader",
+            "description": "Google Cloud",
             "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
         },
         {
             "image": "/extra_3.jpg",
-            "title": "The Matrix Revolutions",
-            "description": "Y en esta más.",
+            "title": "Python Basic",
+            "description": "HackerRank",
             "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
         }
     ]

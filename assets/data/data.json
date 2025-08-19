@@ -77,7 +77,7 @@
             "icon": "bar-chart-4",
             "title": "Diagnóstico de Alzheimer Mediante Redes Convolucionales Aplicadas al Análisis de Resonancias Magnéticas",
             "subtitle": "Tesis",
-            "description": "Herramienta de Diagnostico de Alzheimer",
+            "description": "Herramienta de Diagnóstico de Alzheimer",
             "technologies": [
                 {
                     "icon": "devicon-python-plain",
@@ -131,7 +131,7 @@
         {
             "icon": "book",
             "title": "Instituto Politécnico Nacional",
-            "subtitle": "Ingenierio en Comunicaciones y Electrónica con especialidad en Computación",
+            "subtitle": "Ingeniero en Comunicaciones y Electrónica con especialidad en Computación",
             "description": "Tesis: Diagnóstico de Alzheimer Mediante Redes Convolucionales Aplicadas al Análisis de Resonancias Magnéticas",
             "date": "Enero 2020 - Agosto 2024",
             "certificate": "/data/ActaExamenProfesional.pdf"

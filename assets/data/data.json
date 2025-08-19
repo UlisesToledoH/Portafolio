@@ -140,22 +140,22 @@
     ],
     "extras": [
         {
-            "image": "/extra_1.jpg",
+            "image": "/cert1.png",
             "title": "Professional Cloud Developer",
             "description": "Google Cloud",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix"
+            "url": "https://www.credly.com/badges/9027858d-a025-4c9e-a903-f2abcdf0f715/public_url"
         },
         {
-            "image": "/extra_2.jpg",
+            "image": "/cert2.png",
             "title": "Cloud Digital Leader",
             "description": "Google Cloud",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
+            "url": "https://www.credly.com/badges/6cdd20a7-a792-4c4d-95cd-1d5bb9c7bdfb/public_url"
         },
         {
-            "image": "/extra_3.jpg",
+            "image": "/cert3.png",
             "title": "Python Basic",
             "description": "HackerRank",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
+            "url": "https://www.hackerrank.com/certificates/2d7c430a5602"
         }
     ]
 }

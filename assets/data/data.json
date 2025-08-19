@@ -1,16 +1,16 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
-    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
-    "image": "/avatar.jpg",
-    "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "title": "Ulises Gabriel Toledo Hernandez | Portafolio",
+    "description": "Jr. Software & Cloud Developer",
+    "image": "/foto.jpg",
+    "avatar": "/foto.jpg",
+    "name": "Ulises Gabriel Toledo Hernandez ",
+    "skill": "Jr. Software & Cloud Developer",
+    "location": "Ciudad de Mexico",
     "media": {
-        "email": "neo@metacortex.com",
+        "email": "ugth13@gmail.com",
         "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "github": "https://github.com/UlisesToledoH",
+        "likedin": "https://www.linkedin.com/in/ulises-toledo/"
     },
     "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
     "technologies": [

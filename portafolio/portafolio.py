@@ -8,7 +8,7 @@ from portafolio.views.header import header
 from portafolio.views.info import info
 from portafolio.views.tech_stack import tech_stack
 
-DATA = data.data
+DATA = data.load_data()
 
 
 def index() -> rx.Component:

@@ -8,47 +8,52 @@
     "location": "Ciudad de Mexico",
     "media": {
         "email": "ugth13@gmail.com",
-        "cv": "/data/cv.pdf",
+        "cv": "/data/cv_d.pdf",
         "github": "https://github.com/UlisesToledoH",
         "likedin": "https://www.linkedin.com/in/ulises-toledo/"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "Ingeniero en Comunicaciones y Electrónica con especialidad en Computación, con experiencia en desarrollo de software, bases de datos y entornos en la nube (GCP). Manejo de Python, C#, C++, SQL y frameworks como .NET, aplicados en proyectos de migración de datos, automatización y análisis. Interesado en oportunidades como Desarrollador Jr.",
     "technologies": [
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Binario"
+            "icon": "devicon-dotnetcore-plain",
+            "name": ".NET"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Ensamblador"
+            "icon": "devicon-python-plain",
+            "name": "Python"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "COBOL"
+            "icon": "devicon-cplusplus-plain",
+            "name": "C++"
         },
         {
             "icon": "devicon-c-plain",
             "name": "C"
         },
         {
-            "icon": "devicon-python-plain",
-            "name": "Python"
+            "icon": "devicon-java-plain",
+            "name": "Java"
+        },
+        {
+            "icon": "devicon-mysql-original",
+            "name": "Mysql"
+        },
+        {
+            "icon": "devicon-microsoftsqlserver-plain",
+            "name": "SQL Server"
+        },
+        {
+            "icon": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
         }
     ],
     "experience": [
         {
             "icon": "terminal",
-            "title": "Metacortex",
-            "subtitle": "Programador",
-            "description": "Programo software respetable desde un cubículo.",
-            "date": "1999"
-        },
-        {
-            "icon": "rabbit",
-            "title": "Nebuchadnezzar",
-            "subtitle": "El Elegido",
-            "description": "Me encargo de salvar el mundo.",
-            "date": "1999 - Actualidad"
+            "title": "Thinkcare Technologies",
+            "subtitle": "Cloud Developer Jr.",
+            "description": "Desarrollé Cloud Functions en C# y Python para optimizar procesos en aplicaciones monolíticas.\nImplementé ETL para migración de datos de SQL Server a PostgreSQL con Google Cloud Dataflow.\nCreé Flex Templates para mejorar la transferencia masiva de datos.\nAnalicé y optimicé bases de datos, incluyendo procedimientos almacenados y triggers.\nElaboré documentación técnica y manuales de operación para despliegues.\nEjecuté pruebas unitarias e integración garantizando calidad del software.",
+            "date": "Agosto 2024 - Marzo 2025"
         }
     ],
     "projects": [

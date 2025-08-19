@@ -71,7 +71,12 @@ class Data:
         self.extras = [Extra(**info) for info in extras]
 
 
-with open("assets/data/data.json") as file:
-    json_data = json.load(file)
+# with open("assets/data/data.json") as file:
+#     json_data = json.load(file)
 
-data = Data(**json_data)
+# data = Data(**json_data)
+
+def load_data():
+    with open("assets/data/data.json", encoding="utf-8") as file:
+        json_data = json.load(file)
+    return Data(**json_data)
